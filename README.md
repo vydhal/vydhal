@@ -4,6 +4,8 @@
 
 ## Eu sou Vydhal
 
+### Perfil em construção
+
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vydhal-silva-82234163/)
@@ -22,5 +24,3 @@
      <img align= "center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
  
 </div>
-
-
